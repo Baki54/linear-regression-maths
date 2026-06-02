@@ -1,3 +1,7 @@
+
+<details>
+<summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
+  
 ## ধরুন, আপনার সামনে একটি Dataset রাখা হলো।
 
 আপনাকে বলা হলো:
@@ -84,8 +88,132 @@ Prediction পাওয়া যায়।
 
 এবং প্রতিটি বিষয়ের পেছনের গাণিতিক ভিত্তি।
 
----
 
 
 
 > **Don't learn Machine Learning as a library. Learn it as mathematics.**
+
+---
+
+<summary><b>  English version</b></summary>
+
+</details>
+
+
+## Imagine someone gives you a dataset and asks:
+
+>### "Find the pattern in this data and predict future values."
+
+Using Python, NumPy, Pandas, and Scikit-Learn, you could probably solve the problem within minutes.
+
+But what if your computer was taken away and you were given a notebook, a pen, and a calculator?
+
+Could you still do it?
+
+**Theoretically, that notebook could become a Machine Learning model,even an Artificial Intelegence model.**
+
+In fact, if you had enough time and patience, it could even simulate the mathematical computations behind modern AI systems.
+
+Because at its core, Everything is mathematics.
+
+Every prediction, classification, recommendation, generated image, or generated sentence is ultimately the result of numbers, matrices, probabilities, calculus, tensor and mathematical transformations.
+
+---
+
+## The Problem
+
+Today, many people start learning Machine Learning through libraries.
+
+```python
+model.fit(X, y)
+prediction = model.predict(X)
+```
+
+The model works.
+
+The prediction appears.
+
+Everything seems fine.
+
+But then questions arise:
+
+* Where did the regression line come from?
+* Why does the error decrease?
+* What exactly is a cost function?
+* How does gradient descent work?
+* Why does SVM work?
+* What is a neural network actually learning?
+
+Unfortunately, many learners never explore these questions deeply.
+
+As a result, they learn how to use algorithms, but not how the algorithms actually work.
+
+---
+
+## Purpose of This Repository
+
+This repository is **not** another Machine Learning library.
+
+Its purpose is to explore and explain the mathematics behind Machine Learning algorithms from the ground up.
+
+The goal is simple:
+
+❌ How to use it?
+
+✅ How does it work?
+
+Each algorithm is broken down into its mathematical foundations before being implemented in Python.
+
+The focus is not on hiding complexity.
+
+The focus is on understanding it.
+
+---
+
+
+Real understanding begins when you can answer questions such as:
+
+* Where does the equation come from?
+* Whats the maths behind of it?
+* Why does the algorithm work?
+* How is the prediction generated?
+* Can I implement it myself without relying entirely on a library?
+
+This project is not about creating library users.
+
+It is about creating learners who understand the foundations.
+
+---
+
+## Topics Covered
+
+This is an ongoing educational series that aims to cover the mathematics behind:
+
+* Linear Regression
+* Multiple Linear Regression
+* Polynomial Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Naive Bayes
+* Decision Trees
+* Random Forests
+* Support Vector Machines (SVM)
+* Support Vector Regression (SVR)
+* K-Means Clustering
+* Principal Component Analysis (PCA)
+* Neural Networks
+* Backpropagation
+* Gradient Descent
+* Transformers
+* Large Language Models (LLMs)
+
+Everything will do without any mechine learning librery, just mathematics and pure python.
+
+**The mathematics will makes them work.**
+
+---
+
+If your goal is not only to train models, but also to understand them, then this serise is for you.
+
+
+## Don't learn Machine Learning as a library. Learn it as mathematics.
